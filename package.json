@@ -1,0 +1,23 @@
+{
+  "name": "food_server",
+  "version": "1.0.0",
+  "description": "Food app server node js ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "food",
+    "server",
+    "node",
+    "js",
+    "app"
+  ],
+  "author": "kashif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^5.8.0"
+  }
+}
